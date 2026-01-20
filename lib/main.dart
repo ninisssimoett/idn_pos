@@ -7,3 +7,7 @@ void main() {
     home: HomeScreen(),
   ));
 }
+
+Widget test() {
+  return Placeholder();
+}
