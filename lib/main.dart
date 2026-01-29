@@ -3,11 +3,7 @@ import 'package:idn_pos/screens/home/home_screen.dart';
 
 void main() {
   runApp(MaterialApp(
-    debugShowCheckedModeBanner: false,
+    debugShowMaterialGrid: false,
     home: HomeScreen(),
   ));
-}
-
-Widget test() {
-  return Placeholder();
 }
